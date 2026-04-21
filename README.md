@@ -94,9 +94,9 @@ The ETL process is implemented using SSIS packages:
 
 ## 📸 Screenshots 
 
-![SSIS Package](Screenshot-2026-04-21-104823.png)
-![Data Flow](Screenshot-2026-04-21-104144.png)
-![Star Schema](Screenshot-2026-04-21-104746.png)
+![SSIS Package](Screenshot%202026-04-21%20104823.png)
+![Data Flow](Screenshot%202026-04-21%20104144.png)
+![Star Schema](Screenshot%202026-04-21%20104746.png)
 
 ---
 
